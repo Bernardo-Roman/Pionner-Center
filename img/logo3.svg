@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Fondo circular -->
+  <circle cx="100" cy="100" r="95" fill="#FF8C00" stroke="#E67E00" stroke-width="3"/>
+  
+  <!-- Icono de celular -->
+  <rect x="75" y="40" width="50" height="100" rx="8" fill="#FFFFFF" stroke="#333" stroke-width="2"/>
+  <rect x="80" y="50" width="40" height="75" rx="3" fill="#2563eb"/>
+  
+  <!-- Botón home -->
+  <circle cx="100" cy="135" r="5" fill="#333"/>
+  
+  <!-- Símbolo de engranaje (reparación) -->
+  <g transform="translate(130, 130)">
+    <circle cx="20" cy="20" r="15" fill="#FFFFFF" stroke="#333" stroke-width="2"/>
+    <circle cx="20" cy="20" r="8" fill="#FF8C00"/>
+    <rect x="17" y="0" width="6" height="10" fill="#333"/>
+    <rect x="17" y="30" width="6" height="10" fill="#333"/>
+    <rect x="0" y="17" width="10" height="6" fill="#333"/>
+    <rect x="30" y="17" width="10" height="6" fill="#333"/>
+  </g>
+  
+  <!-- Texto -->
+  <text x="100" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">PIONNER CENTER</text>
+</svg>
