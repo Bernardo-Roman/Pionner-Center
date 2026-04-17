@@ -1,6 +1,7 @@
 # Pioneer Center - Landing Page
 
 Landing page profesional para Pioneer Center S.R.L. - Reparación de equipos informáticos y periféricos. Comercio al por menor de equipos informáticos, software y equipos de telecomunicaciones en Salto del Guairá, Canindeyú - Paraguay.
+
 git@github.com:Bernardo-Roman/Pionner-Center.git
 
 ## 🚀 Características Implementadas
@@ -48,26 +49,18 @@ Usar herramientas como:
 ## 📁 Estructura del Proyecto
 
 ```
-PioneerCenter/
+PionnerCenter/
 ├── index.html          # Página principal
 ├── css/
-│   └── styles.css      # Estilos CSS
+│   └── styles.css      # Estilos optimizados
 ├── js/
-│   └── script.js       # JavaScript
+│   └── script.js       # Funcionalidades nativas
 ├── img/                # Imágenes (⚠️ necesita optimización)
-├── sw.js               # Service Worker
 ├── manifest.json       # PWA manifest
-└── README.md           # Este archivo
+└── sw.js              # Service Worker
 ```
 
-## 🎨 Paleta de Colores
-
-- **Naranja:** `#FF8C00` - Color principal
-- **Negro:** `#000000` - Textos
-- **Blanco:** `#FFFFFF` - Fondos
-- **Gris Claro:** `#F5F5F5` - Secciones alternas
-
-## 📱 Funcionalidades JavaScript
+## 📋 Funcionalidades JavaScript
 
 - Menú móvil hamburguesa
 - Scroll suave entre secciones
